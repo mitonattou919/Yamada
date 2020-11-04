@@ -1,0 +1,5 @@
+Flask
+gunicorn
+requests
+python-dateutil
+google-cloud-firestore
